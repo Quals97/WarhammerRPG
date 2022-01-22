@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aplikacja</string>
+    <string name="btn_Warhammer">Stwórz swojego BG</string>
+    <string name="btn_dice">Kości</string>
+    <string name="label_name">Imię:</string>
+    <string name="label_rasa">Rasa:</string>
+    <string name="label_profesja">Obecna profesja:</string>
+    <string name="label_WW">Walka wręcz:</string>
+    <string name="label_US">Umiejętności strzelecke:</string>
+    <string name="label_ZR">Zręczność:</string>
+    <string name="btn_edit">Edytuj</string>
+    <string name="label_nodata">Brak danych</string>
+    <string name="btn_save">Zapisz</string>
+    <string name="hint_name">Imie:</string>
+    <string name="hint_rasa">Rasa:</string>
+    <string name="hint_profesja">Obecna profesja:</string>
+    <string name="hint_WW">WW:</string>
+    <string name="hint_US">US:</string>
+    <string name="hint_ZR">ZR:</string>
+    <string name="btn_rzut">Rzuć k6</string>
+    <string name="btn_rzutinfo">Twoje kości</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App</string>
+    <string name="label_name">Name:</string>
+    <string name="hint_WW">WS:</string>
+    <string name="hint_US">BS:</string>
+    <string name="hint_ZR">AG:</string>
+    <string name="hint_profesja">Career entrries:</string>
+    <string name="hint_rasa">Race:</string>
+    <string name="hint_name">Name:</string>
+    <string name="btn_save">Save</string>
+    <string name="label_nodata">No data</string>
+    <string name="btn_edit">Edit</string>
+    <string name="label_ZR">Agility</string>
+    <string name="label_WW">Weapon skill</string>
+    <string name="label_US">Ballistic skill</string>
+    <string name="label_profesja">Career entrries:</string>
+    <string name="label_rasa">Race:</string>
+    <string name="btn_dice">Dice</string>
+    <string name="btn_Warhammer">"Create your PH "</string>
+    <string name="btn_rzut">Roll k6</string>
+    <string name="btn_rzutinfo">Your dices</string>
+</resources>
